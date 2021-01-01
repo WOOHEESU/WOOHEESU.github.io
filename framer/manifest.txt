@@ -379,7 +379,6 @@ design/images/P87dLxE6TvufWf0cItczr5X2Has.jpg
 design/images/NH3DMnnSskWbWnQzMBREcbZ1ck.jpg
 design/images/Lhutufb5ErKfsPpEpwqPLVYzkyI
 design/images/LY19zbZcGphj8HKA9fCqCkdlJs.jpg
-design/images/Krp9o3HwAKDXj2wkP51nDrCuI.png
 design/images/KbMutBWswUHxGrY1AA7cl1RQ.jpg
 design/images/JxwVwnlr2Rv179uJK2IsdHpdP0.jpg
 design/images/JmIxWrC3XQD6dGRjsfmbVs2NE.jpg
@@ -406,14 +405,12 @@ design/images/8nTmxV0CpdSz1JihM13IYXJh5mE.png
 design/images/7MocGfCJOrKtyRMddhfUJrkIQ.png
 design/images/75cwCvlWfWpwosyuptmjUXqaGE
 design/images/74jYn4c7kLSuUh6mtlUgLIKaGws.jpg
-design/images/6lhI4PH4DoIdv68BUtWbPSzvXWs.png
 design/images/6k010K4cpPhCbpULgU80kbTqu9o
 design/images/5aNh83uhd6jbvFeNtQIX6JhSoPs.jpg
 design/images/4O1uP9nLS6g7N0snABWjTfU0BBg
 design/images/43pG36jKtwvxbyDBXBKcJwjwxg.png
 design/images/3qIy0CtCOgo23QrVcRHKecrUelE.jpg
 design/images/2fmecHYRNALrXkFuDM8KKBqZoMQ.png
-design/images/1pM9DZ3dxTOf5QDzoz0VEJNQyw.jpg
 design/images/05ayMTwd1D7pudrFsugBZYxsCjo.jpg
 design/images/02K2gC7VzI8VaYgZJFM9MPPU.jpg
 code/style.css

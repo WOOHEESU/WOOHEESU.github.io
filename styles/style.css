@@ -98,7 +98,11 @@ body input.component:focus {
 }
 
 .DraftEditor-editorContainer {
-    border-left: 1px;
+    /*
+    Draft uses a 0.1px border hack which does not play well with our zoom and makes our text jump:
+    https://github.com/facebook/draft-js/blob/585af35c3a8c31fefb64bc884d4001faa96544d3/src/component/base/DraftEditor.css#L35
+     */
+    border: none !important;
     z-index: auto;
 }
 

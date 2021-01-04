@@ -478,6 +478,11 @@ fonts/NHaasGroteskTXPro/NHaasGroteskTXPro-55Rg.woff2
 fonts/NHaasGroteskTXPro/NHaasGroteskTXPro-55Rg.woff
 fonts/NHaasGroteskTXPro/NHaasGroteskTXPro-55Rg.ttf
 fonts/NHaasGroteskTXPro/NHaasGroteskTXPro-55Rg.eot
+fonts/Impact/stylesheet.css
+fonts/Impact/Impact.woff2
+fonts/Impact/Impact.woff
+fonts/Impact/Impact.ttf
+fonts/Impact/Impact.eot
 fonts/CooperBlack/stylesheet.css
 fonts/CooperBlack/CooperBlack.woff2
 fonts/CooperBlack/CooperBlack.woff

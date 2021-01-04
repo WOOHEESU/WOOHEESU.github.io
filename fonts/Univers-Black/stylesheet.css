@@ -6,6 +6,6 @@
     url("Univers-Black.woff") format("woff"),
     url("Univers-Black.ttf") format("truetype");
   font-weight: 100;
-  font-style: italic;
+  font-style: normal;
   font-display: swap;
 }
